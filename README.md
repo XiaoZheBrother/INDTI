@@ -15,7 +15,7 @@ Specify the data to be used for prediction, make model prediction, and generate 
 *CNN.py*: The CNN encoder\
 *self_attention.py*: The Self-Attention encoder\
 *chord*: Example of interactive file\
-*data*: The preprocessing data\
+*data*: Example of preprocessing data\
 *dataset*: Data from three datasets:
 BindingDB,BIOSNAP and DAVIS\
 *ESPF*: Generate embedded related files\
