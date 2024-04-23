@@ -26,4 +26,4 @@ fp_type is used to specify PubChem or Morgan\
 *dataset*: Data from three datasets:
 BindingDB,BIOSNAP and DAVIS\
 *ESPF*: Generate embedded related files\
-*model*: Example of Trained model
+*model*: Example of Trained model(https://stumail-my.sharepoint.cn/:u:/g/personal/21yqchen2_stu_edu_cn/Edr1wyTOvAFEnLRpf6Sjqr4BKxqUr0KoAgD67lYuCc27jA)
