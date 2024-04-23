@@ -1,7 +1,7 @@
 # INDTI: Drug target interactions prediction based on interactive inference network
 Yuqi Chen, Xiaomin Liang, Wei Du, Yanchun Liang, Garry Wong, Liang Chen
 
-![INDTI](https://github.com/XiaoZheBrother/INDTI/INDTI.jpg "INDTI")
+![INDTI](https://github.com/XiaoZheBrother/INDTI/blob/main/INDTI.jpg "INDTI")
 Overview of INDTI. \
 <sup>INDTI has an embedding layer, an encoding layer, an interaction layer, a feature extraction layer, and an output layer. At the embedding layer, drug sequences and target molecules are embedded. The embedding of drugs and targets is encoded at the encoding layer. The interaction layer simulates drug-target interactions. In the feature extraction layer, the interaction features of the interaction matrix are extracted and the prediction results are obtained. In general, when predicting the interaction between a target and a drug, most models connect the extracted features of both the drug and the target molecular sequences, feeding them into the prediction model. However, our model uses the dot product to generate a scalar indicating the interaction strength between a single target-drug minimum unit pair, which produces interpretable model interaction predictions.<sup>
 
