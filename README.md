@@ -10,6 +10,7 @@ Overview of INDTI
 *train.py*: Training function of INDTI:\
 Set the data set and train the model\
 First, modify the corresponding configuration in the config.py file. Then select the dataset for training\
+
 *test.py*: Test function of INDTI:\
 Specify the data to be used for prediction, make model prediction, and generate interactive files at the same time\
 First, modify the corresponding configuration in the config.py file. Then select the test set, and refer to val.csv for the format of the test set\
