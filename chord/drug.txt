@@ -1,0 +1,4 @@
+OC(=O)[C@@H]1,CCC(=O)N,1
+CC(C)(C),CC(=O)O,\N=C\C,1,=CC=C,(O),C=C1
+NC1=N,C=C,(CC2,=CC,=CC=C,2),S1
+[NH3+],C1,(CC2,=CC=C,(Cl)C,=C,2),CCN(CC1,)C1=C,2C=C,NC2=N,C=N,1
