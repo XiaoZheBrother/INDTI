@@ -13,7 +13,12 @@ Specify the data to be used for prediction, make model prediction, and generate 
 First, modify the corresponding configuration in the config.py file. Then select the test set, and refer to val.csv for the format of the test set\
 *stream.py*: Used to generate embedded\
 *models.py*: INDTI model\
-*config.py*: The config of INDTI\
+*config.py*: The config of INDTI:\
+Type1 represents Direct embedding + CNN\
+Type2 represents Direct embedding + Molecular fingerprint + CNN\
+Type3 represents Subsequent embedding + Attention\
+Type4 represents Subsequent embedding + Molecular fingerprint + Attention\
+fp_type is used to specify PubChem or Morgan\
 *CNN.py*: The CNN encoder\
 *self_attention.py*: The Self-Attention encoder\
 *chord*: Example of interactive file\
